@@ -1,0 +1,15 @@
+{
+	"font_size": 14,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"rulers":
+	[
+		100
+	],
+	"ignored_packages":
+	[
+		"Vintage",
+		"Emmet"
+	],
+	"trim_trailing_white_space_on_save": true
+}
