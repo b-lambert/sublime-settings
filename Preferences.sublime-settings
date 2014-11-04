@@ -11,5 +11,5 @@
 		"Vintage",
 		"Emmet"
 	],
-	"trim_trailing_white_space_on_save": true
+	"trim_trailing_white_space_on_save": false // Seemed like a good idea but makes git diffs really messy.
 }
