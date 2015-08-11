@@ -1,15 +1,19 @@
 {
+	"color_scheme": "Packages/User/Monokai (SL).tmTheme",
 	"font_size": 14,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
-	"rulers":
-	[
-		100
-	],
 	"ignored_packages":
 	[
 		"Vintage",
 		"Emmet"
 	],
-	"trim_trailing_white_space_on_save": false // Seemed like a good idea but makes git diffs really messy.
+	"rulers":
+	[
+		100
+	],
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": false,
+	"folder_exclude_patterns": [".svn", "tmp"]
 }

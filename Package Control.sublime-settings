@@ -1,11 +1,20 @@
 {
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"AutoFileName",
+		"Better CoffeeScript",
+		"Colorsublime",
 		"Emmet",
 		"Git",
 		"GitGutter",
 		"Github Tools",
-		"SideBarEnhancements"
+		"GitHubinator",
+		"Package Control",
+		"SCSS",
+		"SideBarEnhancements",
+		"SublimeLinter"
 	]
 }
